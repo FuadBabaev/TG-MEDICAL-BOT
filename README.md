@@ -48,9 +48,9 @@ The bot leverages data from the [MEDAL dataset](https://github.com/McGill-NLP/me
 
 ### Preview
 
-To see how the bot works, check out the preview in the following file:
+To see how the bot works, check out the preview by the following link:
 
-- **[images/messages.html](https://fuadbabaev.github.io/TG-MEDICAL-BOT/images/messages.html)**
+- **[Exported chat](https://fuadbabaev.github.io/TG-MEDICAL-BOT/images/messages.html)**
 
 ---
 
