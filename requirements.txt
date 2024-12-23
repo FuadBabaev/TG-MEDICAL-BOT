@@ -1,0 +1,16 @@
+datasets==2.14.4                    # For dataset management and manipulation
+langchain==0.0.303                  # Core LangChain library
+langchain-community==0.0.18         # Community extensions for LangChain
+langchain-chroma==0.0.9             # Chroma integration for LangChain
+langchain-core==0.0.2               # Core components of LangChain
+tiktoken==0.4.0                     # Tokenizer for OpenAI models
+sentence-transformers==2.2.2        # For embedding models
+lark==1.1.7                         # Lark parser
+InstructorEmbedding==1.0.0          # Instructor embedding models
+bitsandbytes==0.41.1                # Optimized GPU inference
+accelerate==0.21.0                  # Accelerating model training/inference
+transformers==4.33.2                # HuggingFace Transformers
+torch==2.0.1                        # PyTorch for model inference
+python-telegram-bot==20.5           # Telegram bot framework
+chromadb==0.4.5                     # Chroma vector database
+dotenv==0.21.0                      # For environment variable management
